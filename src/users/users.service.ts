@@ -24,8 +24,7 @@ const users = [
         name:'Champion' , 
         email:'emali' , 
         role:'INTERN' ,
-    } ,
-    
+    } ,    
 ]
 
 @Injectable()
